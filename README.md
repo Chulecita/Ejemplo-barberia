@@ -1,2 +1,2 @@
 # Ejemplo-barberia
-ejemplo basico de pag para una barberia
+ejer. basico de pag para una barberia, 
